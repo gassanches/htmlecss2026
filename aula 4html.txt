@@ -1,0 +1,31 @@
+
+aula 4 html
+
+<!DOCTYPE html> 5.0
+
+<html lang="pt-br>
+ 
+<head>
+
+<meta charset="utf-8">
+
+<!-- observe o fechamento da tag acima com o sinal de maoior-->
+
+<meta name="author" content="Ana Cleide Sanches"/>
+
+<!agora observe o fechamento da tag acima com o caractere barra e o sinal de maior.
+
+O HTML5 aceita ambas as formas, O XHTML, apenas a segunda forma-->
+
+<title>Estrutura básica de HTML5</title>
+
+</head>
+
+<body>
+
+<h1>Estrutura básica - HTML5</H1>
+
+<P> Esta [e a versão da linguagem de marcação que utiliza curso!</p>
+
+Texto direto.
+
